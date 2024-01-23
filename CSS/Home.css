@@ -1,0 +1,49 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+    background-color: #7292b3;
+}
+
+header {
+	background-color: #34495e;
+	padding: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.login-button {
+	background-color: #4CAF50;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+    border: none;
+}
+
+.title {
+	text-align: center;
+	margin: 10px 0;
+    background-color: #7292b3;
+}
+
+main {
+	padding: 20px;
+}
+
+footer {
+	background-color: #34495e;
+	padding: 20px;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.lanjutkan-button {
+	background-color: #4CAF50;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+    border: none;
+}
